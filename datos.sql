@@ -1,5 +1,5 @@
-CREATE DATABASE alojamiento;
-USE alojamiento;
+CREATE DATABASE mi_base_de_datos;
+USE mi_base_de_datos;
 
 CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
